@@ -1,21 +1,29 @@
-MIT License
+WEAzer License Agreement
 
-Copyright (c) 2026 Woofung
+Copyright (c) 2025 Woofung Tsai. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Woofung Editing Analyzer (WEAzer)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+License Grant: Woofung Tsai ("Licensor") hereby grants you ("Licensee") a free, non-exclusive, non-transferable license to use the Woofung Editing Analyzer (WEAzer) software ("Software") for personal and non-commercial research purposes, subject to the terms below.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Ownership: The Software is owned by Woofung Tsai and is protected by copyright laws and international treaty provisions. This license does not transfer any ownership rights to the Licensee.
+
+Permitted Use: The Licensee may:
+a) Download, install, and run the Software.
+b) Make copies of the Software for the Licensee's own personal and non-commercial research use, including installation on multiple computers and backup copies.
+c) Read, study, and reverse engineer the Software and its source code, including for the purpose of verifying its analysis methods and reproducing published results.
+
+Restrictions: The Licensee shall not:
+a) Redistribute, sublicense, or publish the Software or any copy of it to third parties in any form without explicit written permission from Woofung Tsai. To share the Software, please refer others to the official repository (https://github.com/Woofung/WEAzer).
+b) Modify the Software or distribute modified versions of it without explicit written permission from Woofung Tsai.
+c) Use the Software for any commercial purposes without prior written agreement from the Licensor.
+
+No Warranty: The Software is provided "as is" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. Woofung Tsai does not guarantee the accuracy of analysis results produced by the Software.
+
+Limitation of Liability: In no event shall the Licensor be liable for any damages whatsoever arising out of the use of or inability to use this Software. The Licensee is solely responsible for checking the integrity and accuracy of processed data and any results obtained through the use of the Software.
+
+User Responsibility: The Licensee acknowledges and agrees that they are solely responsible for the accuracy and integrity of their own data, reports, documentation, and security when using the Software. The Licensee should independently verify all results obtained through the use of the Software.
+
+Governing Law: This license shall be governed by and construed in accordance with the laws of the United States of America.
+
+For permission requests or other inquiries, please contact: woofung@gmail.com
